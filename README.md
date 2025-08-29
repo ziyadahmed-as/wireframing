@@ -82,3 +82,31 @@ It is designed to:
 
 ---
 
+
+## 3. Wireframing Tools  
+**Mandatory**  
+
+Wireframing is a crucial step in the design process, and using the right tools can significantly improve productivity, collaboration, and overall design quality. Below are some popular wireframing tools used by designers and teams:  
+
+### 🔹 Popular Wireframing Tools  
+- **Figma**  
+- **Adobe XD**  
+- **Sketch**  
+- **Balsamiq**  
+- **InVision**  
+
+### ⭐ Recommended Tool: Figma  
+Figma is a cloud-based design and prototyping tool that has become one of the most popular choices for wireframing.  
+
+#### Key Features:  
+- **Real-time collaboration:** Multiple team members can work on the same design simultaneously.  
+- **Cross-platform support:** Works on web browsers, Windows, macOS, and has mobile apps for previewing.  
+- **Component-based design:** Reusable components for consistent and scalable design systems.  
+- **Prototyping built-in:** Allows you to connect screens and create interactive flows without needing additional software.  
+- **Version control:** Automatically saves changes, making it easy to track and revert design updates.  
+
+#### Why Figma for Wireframing?  
+- Easy to start with **low-fidelity sketches** and gradually evolve into **high-fidelity designs**.  
+- Intuitive interface suitable for beginners while still powerful for advanced design workflows.  
+- Excellent for **team projects** where collaboration and feedback are essential.  
+
