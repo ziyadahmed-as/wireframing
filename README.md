@@ -34,3 +34,51 @@ Indicates interactive elements such as buttons, forms, links, or dropdowns. Wire
 
 ---
 
+# 2. Types of Wireframes
+
+Wireframes can be broadly categorized into **Low-Fidelity** and **High-Fidelity** wireframes. Each type serves a unique purpose in the design process and is chosen based on the development stage and the level of detail required.
+
+---
+
+## Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are **basic, simplified sketches** of a design. They focus on **structure, layout, and functionality** without including detailed design elements such as colors, fonts, or precise spacing.
+
+- **Purpose:**  
+  Used early in the design process to brainstorm ideas, validate user flows, and gather quick feedback.
+
+- **Features:**  
+  Hand-drawn sketches or simple digital outlines with boxes and placeholders.
+
+- **Example:**  
+  A black-and-white sketch of a webpage showing a header, sidebar, and content section.
+
+---
+
+## High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are **detailed and polished representations** of the final product. They include precise spacing, typography, and sometimes even brand colors.
+
+- **Purpose:**  
+  Used later in the design process to simulate the final product more closely and test usability with end users.
+
+- **Features:**  
+  Pixel-perfect layouts, detailed interaction points, and refined elements.
+
+- **Example:**  
+  A clickable prototype built with tools like **Figma** or **Adobe XD**.
+
+---
+
+## What Type of Wireframe is Here?
+
+Based on the current stage of this project, the wireframe provided here is a **Low-Fidelity Wireframe**.
+
+It is designed to:
+
+- Focus on layout structure and user flow.  
+- Collect early feedback without investing in detailed visuals.  
+- Serve as a foundation for future iterations that may evolve into high-fidelity prototypes.  
+
+---
+
