@@ -133,3 +133,16 @@ Wireframing plays a crucial role in the software development lifecycle by servin
   Wireframes encourage early feedback from team members and users, making it easier to refine ideas before committing to detailed design.
 
 ---
+## 5. Wireframing in Practice
+
+Wireframing is not just a planning tool—it often prevents major usability issues from surfacing later in development.  
+
+### Real-World Scenario
+In a project to design an **online booking system**, the initial wireframes revealed that the checkout process required users to navigate through **four separate screens** to confirm a booking. This flow was flagged as confusing during the wireframing review stage.  
+
+- **Issue Identified:** Too many steps in the booking flow increased the risk of user drop-off.  
+- **Resolution:** The team revised the wireframe to consolidate the process into **two streamlined screens**, making it faster and easier for users to complete a booking.  
+- **Impact on Final Product:** The simplified flow improved overall usability, reduced user frustration, and increased successful bookings after launch.
+
+### Summary
+This example highlights how wireframing serves as a **low-cost, high-impact checkpoint** in software development. By identifying usability challenges early, teams can adjust workflows before significant resources are spent on design and coding. Ultimately, wireframing ensures the final product is **user-friendly, efficient, and aligned with user needs**.
